@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">水印相机</string>
+    <string name="upload_channel_name">照片上传</string>
+    <string name="upload_channel_desc">水印照片上传状态通知</string>
+    <string name="field_project_name">项目名称</string>
+    <string name="field_construction_unit">施工单位</string>
+    <string name="field_construction_area">施工区域</string>
+    <string name="field_construction_content">施工内容</string>
+    <string name="field_shoot_time">拍摄时间</string>
+    <string name="field_shoot_location">拍摄地点</string>
+    <string name="auto_upload_desc">连接WiFi后自动上传</string>
+    <string name="btn_capture">拍照</string>
+    <string name="btn_gallery">相册</string>
+    <string name="btn_templates">模板</string>
+    <string name="btn_upload">上传</string>
+    <string name="btn_select_all">全选</string>
+    <string name="no_photos">暂无照片</string>
+    <string name="no_device_found">未发现可用电脑</string>
+</resources>
